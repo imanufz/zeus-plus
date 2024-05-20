@@ -9,3 +9,5 @@
 
   // Añadir evento "beforeunload" para detectar redirecciones
   window.addEventListener("beforeunload", blockRedirect);
+ }
+  }
